@@ -15,7 +15,10 @@
 
 目标检测 RTMDet-tiny 模型性能不能 65 mAP
 测试集评估指标:20230610_151244.long
+
 气球的图片进行预测:3800636873_ace2c2795f_b_vis.jpg
+
 对 demo 图片进行特征图可视化和 Box AM 可视化:3800636873_ace2c2795f_b.jpg
+
 数据集
 气球数据集可以直接下载 https://download.openmmlab.com/mmyolo/data/balloon_dataset.zip
